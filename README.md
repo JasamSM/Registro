@@ -2,7 +2,7 @@ Registro
 ========
 
 
-Esto también se hizo en el editor de texto visual studio code
+Esto también se hizo en el editor de código visual studio code
 ---------------------------------------------------------------
 
 
